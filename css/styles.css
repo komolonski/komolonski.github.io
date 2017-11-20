@@ -1,0 +1,19 @@
+img {
+width:250px;
+height:300px;
+}
+h1{
+	color: DC143C;
+	size: 10pt;
+text-align: center;
+}
+p{
+	font-family: Arial;
+	font-size: 40 px;
+	color: blue;
+}
+title{
+	color:purple;
+    size: 10pt;
+    text-align: center;
+}
